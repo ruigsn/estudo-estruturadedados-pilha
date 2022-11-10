@@ -4,18 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="aae816ac-4d83-442b-be85-ba61f1d2bbee" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/estudo-estruturadedados-pilha.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rui/estruturadedados/pilha/Pilha.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/rui/estruturadedados/pilha/PilhaTeste.java" afterDir="false" />
-    </list>
+    <list default="true" id="aae816ac-4d83-442b-be85-ba61f1d2bbee" name="Changes" comment="Criação de Estrutura de Dados do tipo &quot;Pilha&quot;" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -84,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1668090877621</updated>
     </task>
+    <task id="LOCAL-00001" summary="Criação de Estrutura de Dados do tipo &quot;Pilha&quot;">
+      <created>1668096802556</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668096802556</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criação de Estrutura de Dados do tipo &quot;Pilha&quot;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criação de Estrutura de Dados do tipo &quot;Pilha&quot;" />
   </component>
 </project>
